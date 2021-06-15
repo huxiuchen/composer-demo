@@ -1,0 +1,17 @@
+{
+    "name": "huxiuchen/composer-demo",
+    "description": "huxiuchen composer package demo",
+    "authors": [
+        {
+            "name": "hufeng",
+            "email": "362536679@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "huxiuchen\\cdemo\\": "src/"
+        }
+    }
+}
